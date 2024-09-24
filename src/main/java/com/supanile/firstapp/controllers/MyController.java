@@ -18,6 +18,6 @@ public class MyController {
 
         @GetMapping("/api")
         public String api() {
-            return "Test API";
+            return "Test";
         }
 }
